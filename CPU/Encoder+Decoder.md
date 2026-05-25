@@ -2,7 +2,7 @@
 
 ### 1. 정의
 - 인코더가 데이터를 내부 표현(벡터)으로 압축 디코더가 그 내부 표현을 바탕으로 출력 데이터를 생성
-    ![Definition.](./CPU./Images/Encoder+Decoder/Definition.png) 
+    ![Definition.](../Images/Encoder+Decoder/Definition.png) 
 
 ### 2. 필요성
 - 입력과 출력이 형태가 다를 때

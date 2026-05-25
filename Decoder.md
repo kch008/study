@@ -2,6 +2,7 @@
 
 1. 정의
 >인코더가 데이터를 내부 표현(벡터)으로 압축 디코더가 그 내부 표현을 바탕으로 출력 데이터를 생성
+	- 사진
 		- ![Definition.](./Images/Encoder+Decoder/Definition.pug) 
 
 2. 개요
